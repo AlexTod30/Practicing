@@ -1,0 +1,28 @@
+
+.login {
+  float: right;
+}
+
+ul {
+  list-style: none;
+
+
+}
+ul li a {
+  text-decoration: none;
+  font-style: arial;
+  font-size: 50px;
+  color: black;
+}
+#list {
+  display: inline-block;
+  display: inline-flex;
+  margin-top: 120px;
+}
+#about {
+  margin-left: 200px;
+}
+#main-content {
+  background-image: url(../images/hq.jpg.jpg);
+  background-repeat: no-repeat;
+}
